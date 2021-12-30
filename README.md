@@ -10,5 +10,5 @@ In all of them, i used:
 - Different components
 
 ## Projects
-### [Musicbox] (https://github.com/pedro-rendeiro/arduino-projects/tree/main/musicbox)
+### [Musicbox](https://github.com/pedro-rendeiro/arduino-projects/tree/main/musicbox)
 * Using four buttons, plays four different song from a buzzer.
