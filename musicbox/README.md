@@ -5,7 +5,7 @@
 * Arduino UNO
 * 4 buttons
 * 1 buzzer
-* jumpers
+* Jumpers
 
 ## Schematic
 Segue imagem para visualizar comoo o circuito deve ser configurado.
